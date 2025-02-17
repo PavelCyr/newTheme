@@ -37,5 +37,6 @@
                     ?>
                 </div>
             </div>
+            <?php custom_breadcrumbs(); ?>
         </nav>
     </header>
